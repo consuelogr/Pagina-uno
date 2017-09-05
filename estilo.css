@@ -1,11 +1,15 @@
 body{
   line-height: 1.5;
   font-size: 100%;
-  font-family: 'PT Serif', serif;*/K
-  font-weight:400;
+  font-family: 'PT Serif', serif;
+  font-family: fantasy;shape-inside: ellipse();
+  font-style: italic;
+  font-variant: inherit;
+  font-weight:700;
   color:#C4BDAC;
-background-image: url('https://www.ilustra.org/wp-content/uploads/2015/10/florian-14452232148nk4g.gif')
-
+background-image: url('https://www.ilustra.org/wp-content/uploads/2015/10/florian-14452232148nk4g.gif');
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 a{color:#000; text-decoration: none; border-bottom:1px dotted #ccc;}
